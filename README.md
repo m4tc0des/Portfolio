@@ -4,7 +4,7 @@ Bem-vindo ao meu portfólio! Aqui estão alguns projetos que desenvolvi em C#, .
 
 ---
 
-## ?? Projetos em destaque
+## Projetos em destaque
 
 ### [API de Login com Identity e JWT](https://github.com/m4tc0des/ApiLoginIdentityJwt)
 API desenvolvida em **ASP.NET Core** para cadastro e autenticação de usuários, aplicando conceitos de segurança com **ASP.NET Identity** e geração de tokens **JWT**.
