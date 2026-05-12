@@ -1,6 +1,6 @@
 # Portfólio Backend .NET | Mateus Silva
 
-Bem-vindo ao meu ecossistema de desenvolvimento. Sou um desenvolvedor com mais de 5 anos de trajetória técnica sólida. Minha base foi construída no suporte avançado de sistemas ERP, onde atuei como o elo vital entre o cliente final e a engenharia. Hoje, transiciono essa maturidade para a construção de APIs robustas e escaláveis no ecossistema .NET.
+Bem-vindo ao meu ecossistema de desenvolvimento. Sou um desenvolvedor com mais de 5 anos de trajetória técnica sólida. Minha base foi construída no suporte avançado de sistemas ERP, onde atuei como o elo vital entre o cliente final e a engenharia. Hoje, migro essa maturidade para a construção de APIs robustas e escaláveis no ecossistema .NET.
 -
 ## O Diferencial da Minha Experiência
 Diferente de um desenvolvedor iniciante comum, trago comigo a vivência real de quem já resolveu problemas críticos em produção:
